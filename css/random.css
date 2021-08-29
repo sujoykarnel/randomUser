@@ -1,0 +1,28 @@
+#info-section{
+    height: 400px;
+}
+
+#bgInfo{
+    height: 200px;
+    border: 2px solid tomato;
+}
+.info-div{
+    height: 500px;
+}
+#user-info{
+    height: 400px;
+    margin-top: -200px;
+}
+#user-top-bg{
+    height: 150px;
+}
+#user-image-div{
+    width: 150px;
+}
+.div{
+    justify-content: center;
+}
+
+#user-details{
+    margin-top: -100px;
+}
